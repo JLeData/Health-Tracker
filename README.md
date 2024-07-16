@@ -89,11 +89,11 @@ Output should display "Pip (version number)"
   These commands will download the libraries and their dependencies.
 
 # Using the Program
-Follow these steps after succesfully downloading Python and libraries.
+Follow these steps after successfully downloading Python and libraries.
 **1) Clone the Repository:**
-- clone or fownload the Health Tracker repository from here.
+- Clone or download the Health Tracker repository.
 
-**2) Navigating and changing the Directoryy**
+**2) Navigating and changing the Directory**
 - Open Command Prompt and navigate to where you downloaded the Health Tracker Repository.
 - Copy the file location and paste it into Command Prompt preceded by "cd":
 ```

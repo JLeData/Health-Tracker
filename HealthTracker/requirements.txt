@@ -1,5 +1,5 @@
 Program
-  Python
+  Python==3.12.4
 
 Libraries
   matplotlib

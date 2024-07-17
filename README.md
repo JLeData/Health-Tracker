@@ -123,4 +123,9 @@ Health Tracker is a tool that's helping me stay on track with my fitness goals. 
 Your input is valuable! Whether you've got ideas to improve this tool, need assistance, or want to chat about data analysis and programming, let's connect. We can learn together and make this tool even better.
 
 I appreciate you taking the time to check out my project. Best wishes for your health and learning journey!
+
+# License
+
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/JLeData/Health-Tracker/blob/main/HealthTracker/LICENSE) file for details.
+
   
